@@ -12,7 +12,7 @@ An executive-level **Power BI** dashboard designed to track overall sales perfor
 * **Data Modeling & DAX:** Custom DAX measures for Revenue, Gross Profit Margin %, YOY/MOM Growth, and Sales Volume.
 
 ## 📷 Dashboard Preview
-![Sales & Profitability Dashboard](dashboard_preview.png)
+![Sales & Profitability Dashboard](dashboard)
 
 ## 🔑 Key Metrics & Insights
 * **Revenue & Profitability:** Monitored total sales revenue, net profit, and overall profit margins across all business units.
