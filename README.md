@@ -10,10 +10,7 @@ An executive-level **Power BI** dashboard designed to track overall sales perfor
 * **BI Tool:** Power BI Desktop
 * **Data Source:** Excel / CSV (Sales & Financial Dataset)
 * **Data Modeling & DAX:** Custom DAX measures for Revenue, Gross Profit Margin %, YOY/MOM Growth, and Sales Volume.
-
-## 📷 Dashboard Preview
-![Sales & Profitability Dashboard](dashboard)
-
+* 
 ## 🔑 Key Metrics & Insights
 * **Revenue & Profitability:** Monitored total sales revenue, net profit, and overall profit margins across all business units.
 * **Product & Category Breakdown:** Evaluated sales volume and profitability across main product lines to identify top revenue drivers.
